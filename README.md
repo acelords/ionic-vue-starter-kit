@@ -15,9 +15,9 @@ Ionic Vue Starter Kit with features such as:
 **Serving the app**
 ```bash
 ionic serve
-
-#or 
-
+```
+or
+```bash
 ionic serve --no-open
 ```
 
